@@ -1,5 +1,5 @@
 ---
-title: "First R Markdown in Git."
+title: "First RMD in Git"
 author: "Douglas Tan"
 date: "2021/01/09"
 output: html_document
