@@ -1,6 +1,6 @@
 ---
 title: "First R Markdown in Git."
-author: "Caleb Trujillo"
+author: "Douglas Tan"
 date: "2021/01/09"
 output: html_document
 ---
