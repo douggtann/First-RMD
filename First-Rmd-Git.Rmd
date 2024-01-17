@@ -12,7 +12,10 @@ require(tidyverse)
 
 ## R Markdown
 
-I have added text here to show I can write in a R markdown document
+Here are some of my favorite things:
+1. Playing guitar
+2. Taking photos
+3. Bouldering
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
